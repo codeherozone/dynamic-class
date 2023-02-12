@@ -51,4 +51,4 @@ const custom = DynamicClassFactory.createInstance<Custom>(
 
 # Example
 
-- [完整範例](https://github.com/SteveLin100132/wistroni40-dynamic-class/blob/master/examples/index.ts)
+- [完整範例](https://github.com/codeherozone/dynamic-class/blob/master/examples/index.ts)
